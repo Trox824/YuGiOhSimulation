@@ -1,0 +1,21 @@
+46986414,Dark Magician,NormalMonster,A sinister spell caster that possesses both power and defense. It is among the best of all magicians.,7,2500,2100,dark
+55144522,Pot of Greed,SpellCard,Draw 2 cards.,Normal 
+70781052,Summoned Skull,NormalMonster,An entity with dark powers for confusing the enemy. Among the FIEND class of monsters; this is a pretty rare card.,6,2500,1200,dark
+40374923,Mammoth Graveyard,NormalMonster,A mammoth that protects the gravesite of its pack. It's absolutely merciless when facing graverobbers.,3,1200,800,earth
+13039848,Giant Soldier of Stone,NormalMonster,A giant warrior made of stone. A punch from this creature has earth-shaking results.,3,1300,2000,earth
+89631139,Blue-eyes White Dragon,NormalMonster,An extremely rare card with unsurpassed attack and defense power.,8,3000,2500,light
+46986414,Dark Magician,NormalMonster,A sinister spell caster that possesses both power and defense. It is among the best of all magicians.,7,2500,2100,dark
+70781052,Summoned Skull,NormalMonster,An entity with dark powers for confusing the enemy. Among the FIEND class of monsters, this is a pretty rare card.,6,2500,1200,dark
+40374923,Mammoth Graveyard,NormalMonster,A mammoth that protects the gravesite of its pack. It's absolutely merciless when facing graverobbers.,3,1200,800,earth
+13039848,Giant Soldier of Stone,NormalMonster,A giant warrior made of stone. A punch from this creature has earth-shaking results.,3,1300,2000,earth
+89631139,Blue-eyes White Dragon,NormalMonster,An extremely rare card with unsurpassed attack and defense power.,8,3000,2500,light
+46986414,Dark Magician,NormalMonster,A sinister spell caster that possesses both power and defense. It is among the best of all magicians.,7,2500,2100,dark
+70781052,Summoned Skull,NormalMonster,An entity with dark powers for confusing the enemy. Among the FIEND class of monsters, this is a pretty rare card.,6,2500,1200,dark
+40374923,Mammoth Graveyard,NormalMonster,A mammoth that protects the gravesite of its pack. It's absolutely merciless when facing graverobbers.,3,1200,800,earth
+13039848,Giant Soldier of Stone,NormalMonster,A giant warrior made of stone. A punch from this creature has earth-shaking results.,3,1300,2000,earth
+89631139,Blue-eyes White Dragon,NormalMonster,An extremely rare card with unsurpassed attack and defense power.,8,3000,2500,light
+46986414,Dark Magician,NormalMonster,A sinister spell caster that possesses both power and defense. It is among the best of all magicians.,7,2500,2100,dark
+70781052,Summoned Skull,NormalMonster,An entity with dark powers for confusing the enemy. Among the FIEND class of monsters, this is a pretty rare card.,6,2500,1200,dark
+40374923,Mammoth Graveyard,NormalMonster,A mammoth that protects the gravesite of its pack. It's absolutely merciless when facing graverobbers.,3,1200,800,earth
+13039848,Giant Soldier of Stone,NormalMonster,A giant warrior made of stone. A punch from this creature has earth-shaking results.,3,1300,2000,earth
+89631139,Blue-eyes White Dragon,NormalMonster,An extremely rare card with unsurpassed attack and defense power.,8,3000,2500,light

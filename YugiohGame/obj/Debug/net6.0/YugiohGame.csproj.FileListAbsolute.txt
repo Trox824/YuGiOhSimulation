@@ -1,0 +1,30 @@
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.csproj.AssemblyReference.cache
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.AssemblyInfoInputs.cache
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.AssemblyInfo.cs
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.csproj.CoreCompileInputs.cache
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\bin\Debug\net6.0\YugiohGame.exe
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\bin\Debug\net6.0\YugiohGame.deps.json
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\bin\Debug\net6.0\YugiohGame.runtimeconfig.json
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\bin\Debug\net6.0\YugiohGame.dll
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\bin\Debug\net6.0\YugiohGame.pdb
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.dll
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\refint\YugiohGame.dll
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.pdb
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\YugiohGame.genruntimeconfig.cache
+C:\Users\kingk\OneDrive - Swinburne University\1st Year\2nd Semester\COS20007\YugiohGame\obj\Debug\net6.0\ref\YugiohGame.dll
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\bin\Debug\net6.0\YugiohGame.exe
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\bin\Debug\net6.0\YugiohGame.deps.json
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\bin\Debug\net6.0\YugiohGame.runtimeconfig.json
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\bin\Debug\net6.0\YugiohGame.dll
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\bin\Debug\net6.0\YugiohGame.pdb
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.csproj.AssemblyReference.cache
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.AssemblyInfoInputs.cache
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.AssemblyInfo.cs
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.csproj.CoreCompileInputs.cache
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.dll
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\refint\YugiohGame.dll
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.pdb
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\YugiohGame.genruntimeconfig.cache
+C:\Users\kingk\OneDrive\Desktop\YugiohGame\obj\Debug\net6.0\ref\YugiohGame.dll
